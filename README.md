@@ -10,9 +10,9 @@ be kept as it is and the rest of the words should be reversed in-place.
 You will need Python 2.7.x or Python 3.x installed on your machine.
 
 1. Download the *inplace_reverse.py* file.
-2. Paste it in your favorite directory.
+2. Put it in your favorite directory.
 3. Using terminal/cmd, based on which OS you are using, navigate to the path where you have stored the *inplace_reverse.py* file.
-4. Type python *inplace_reverse.py* in your terminal/cmd.
+4. Type **python inplace_reverse.py** in your terminal/cmd.
 5. Give input, see output.
 
 ##Creators
