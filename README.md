@@ -1,4 +1,4 @@
-# string-reverse-in-place
+# Reverse a string in-place
 
 ##Problem Statement
 Reverse a given string, in-place, using Python (2.7 here).
