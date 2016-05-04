@@ -15,9 +15,6 @@ You will need Python 2.7.x or Python 3.x installed on your machine.
 4. Type **python inplace_reverse.py** in your terminal/cmd.
 5. Give input, see output.
 
-##Creators
+##Creator
 ####Sameer Waskar
   * [dev.wsameer@gmail.com](mailto:dev.wsameer@gmail.com)
-
-####Siddharth Marathe
-  * [siddharth070@yahoo.in](mailto:siddharth070@yahoo.in)
